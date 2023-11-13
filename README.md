@@ -6,3 +6,6 @@ Fazer uma query que retorne o relatório abaixo:
 
 ## Requisitos:
 - Utilizar o dump desse projeto;
+
+## Solução: 
+A solução para o desafio está implementada no aquivo query_test.sql
